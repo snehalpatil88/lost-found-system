@@ -6,7 +6,7 @@ A full-stack web application for reporting and tracking lost/found items in real
 (screenshots/ss1.png) (screenshots/ss2.png) 
 (screenshots/ss3.png) (screenshots/ss4.png) 
 (screenshots/ss5.png) (screenshots/ss6.png)
-(screenshots/ss7.png) |
+(screenshots/ss7.png) 
 
 ## Features
 - **Report Items**: Report lost or found items with details (name, category, location, contact)
@@ -181,6 +181,3 @@ Project: [https://github.com/snehalpatil88/lost-found-system](https://github.com
 ⭐ **If you find this project helpful, please give it a star on GitHub!** ⭐
 
 🔗 **GitHub Repository**: [https://github.com/snehalpatil88/lost-found-system](https://github.com/snehalpatil88/lost-found-system)
-```
-
----
